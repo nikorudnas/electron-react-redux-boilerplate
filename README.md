@@ -12,12 +12,14 @@ Start:
 > yarn run dev
 ```
 
+```
 Build:
 Current platform:
 > yarn run package
 
 To package apps for all platforms:
 > yarn run package-all
+```
 
 ```
 Test:
